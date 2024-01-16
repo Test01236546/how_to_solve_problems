@@ -9,3 +9,4 @@
    - Dans la variable "Path" ajouter le chemin pour python
 3. Dans votre terminal installer pip grace à python
    - Rentrer la commande python.exe -m pip install --upgrade pip
+4. Ajouter le chemin du dossier contenant pip à Path (système)
